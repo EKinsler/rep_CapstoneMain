@@ -1,0 +1,9 @@
+body {
+    background-color: black !important;
+}
+
+.nav-item:hover {
+    color: black !important;
+    background-color: rgb(98, 175, 199);
+}
+
