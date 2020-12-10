@@ -117,3 +117,33 @@ body {
   0% {background-image: linear-gradient(black, rgb(18, 189, 231), black); opacity: 0;}
   100% {background-image: linear-gradient(black, rgb(18, 189, 231), black); opacity: 1;}
 }
+
+  /*   C O N T E N T L I S T   */
+
+  #headingOne, #headingTwo, #headingThree {
+    background-color: black !important;
+    border: black !important;
+  }
+
+  .btn {
+    position: relative;
+    left: 45%;
+  }
+
+  .btn-link {
+    text-align: center;
+    color: white !important;
+  }
+
+  .btn-link:hover {
+    color: grey !important;
+  }
+
+  .card-body {
+    position: relative;
+    width: 60%;
+    font-size: 20px;
+    left: 21%;
+    background-color: black;
+    color: white;
+}
